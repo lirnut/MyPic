@@ -1,2 +1,2 @@
-# MyPic
-My Loved Picture
+For CUC-ACM Training.
+If you like it, serve yourself.
